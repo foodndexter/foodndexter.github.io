@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-home">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="home" clip-path="url(#clip-home)">
+    <g id="타원_79" data-name="타원 79" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="8.5" fill="none"/>
+    </g>
+  </g>
+</svg>
